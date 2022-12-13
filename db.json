@@ -1,33 +1,156 @@
 {
-    "users": [
-        {
-            "id":1,
-            "title":"hello",
-            "isCompleted":false
-        }, {
-            "id":2,
-            "title":"hello2",
-            "isCompleted":false
-        }
-    ],
-    "accounts": [
-            {
-                "id":1,
-                "name":"xyz",
-                "roll":909
-            },
-            {
-                "id":1,
-                "name":"xyz",
-                "roll":909
-            }
-    ],
-    "transactions": [
+    "products": [
+       {
+        "id":1,
+        "name":"Ace Of Face Foundation Stick - 10 Latte (Light, Warm Undertone)",
+        "price":999,
+        "description":"Make dreamy natural-looking skin a reality! If you are looking for a foundation that not just looks but also feels like second skin,look no further than the SUGAR Ace Of Face Foundation Stick. It will instantly become the hero of your makeup stash and let you slay #flawlessskingoals every time!",
+        "category":"Best-seller",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/2_97f239ed-b87f-4e16-abce-b3518e0f6470.jpg?v=1640869832",
+        "ratings":4.8,
+        "view": 579
+       },
 
-    ],
-    "payees":[
-        
+       {
+        "id":2,
+        "name":"Smudge Me Not Mini Liquid Lipstick Set - Power up your Pout",
+        "price":799,
+        "description":"Blushme mini liquid lipsticks are perfect to indulge in. These mini liquid lipsticks infused with the goodness of vitamin E are intensely bold in pigment, ultra-matte and glide on effortlessly. Enjoy the mask-proof, transfer-proof and smudge-resistant formula.",
+        "category":"Best-seller",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/WBG2_aed576d3-066c-42e7-b45b-ecdefb75ad5f.jpg?v=1657814599",
+        "ratings":5.0,
+        "view": 1
+       },
+
+       {
+        "id":3,
+        "name":"Base Of Glory Pore Minimizing Primer",
+        "price":799,
+        "description":"A skin-perfecting face primer that gives you a flawless base! Coming in weightless is the SUGAR Base Of Glory Pore Minimizing Primer that goes above and beyond to ensure your face is prepped for perfection. A must-have for a base, this face primer boasts of a satin-smooth texture that helps minimize the appearance of pores, masks fine lines and wrinkles. Its no-block no-clog formula lends a soft-focus matte finish and controls excess oil for a shine-free canvas. Apart from working hard to deliver a crease-free base, this primer also keeps your skin healthy, smooth and protected from sun damage owing to its vitamin E and A richness.",
+        "category":"Best-seller",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/1_e9355d54-6ddb-4aa4-bdfc-176a676db886.jpg?v=1657257149",
+        "ratings":4.8,
+        "view": 275
+       },
+
+       {
+        "id":4,
+        "name":"Wingman Waterproof Microliner - 01 I'll Be Black (Black)",
+        "price":499,
+        "description":"A highly pigmented and waterproof eyeliner, SUGAR Wingman Waterproof Microliner delivers long-lasting 12-hour wear. It's smudgeproof, transferproof and settles to a semi-matte finish. The micro felt-tip aids in smooth and precise application, perfect for all your winged eyeliner needs!",
+        "category":"Best-seller",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/424092031-1.jpg?v=1661529396",
+        "ratings":4.7,
+        "view": 172
+       },
+
+       {
+        "id":5,
+        "name":"Pacifica Stellar Gaze Length \u0026 Strength Mineral Mascara","price":588,
+        "description":"You will fall in love with Pacifica's long lasting, nourishing, natural mineral\n mascara.  This amazing formula is infused with coconut oil and vitamin B\n to hydrate each lash as it lengthens, strengthens and adds volume. \nApply for a natural look by day, or layer for more volume with the super\n plush 100% vegan brush that provides effortless coverage.100% vegan. Cruelty-free. Formulated without FD \u0026 C color, parabens, talc and mineral oil.\nRead our blog post for tips on how to Green \u0026 Clean your makeup bag.  Ingredients: Aqua, glycerin (vegetable), glyceryl stearate se, jojoba \nesters, tapioca starch, stearic acid ( vegetable), copernicia cerfera \n(carnauba) wax, euphorbia cerifera (candelilla) wax, arabic/acacia gum, \nacrylates, crosspolymer, potassium cetyl phosphate, microcrystalline \ncellulse (plant), cocos nucifera (coconut) oil, panthenol (vitamin b), \ncellulose gum, gluconolactone, macrocystis pyifera (brown kelp) extract,\n hydrolyzed oryza sativa (rice) protein, sodium benzoate, iron oxides c1\n 77499.",
+        "category":"Best-seller",
+        "image":"https://d3t32hsnjxo7q6.cloudfront.net/i/b4a5f31a499b42938980fb369d0213ab_ra,w158,h184_pa,w158,h184.jpeg",
+        "rating":4.2,
+        "view":579
+       },
+
+       {
+        "id":6,
+        "name":"Contour De Force Face Palette - 01 Subtle Summit",
+        "price":799,
+        "description":"Presenting our SUGAR Contour De Force Face Palette that houses a power-packed trio of a matte bronzer, a radiant highlighter and a dreamy blush. Step up your beauty game by experimenting with the highlighter to stay in the spotlight, the bronzer for an enhanced tan and the contour for a defined, sculpted look.",
+        "category":"Best-seller",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/1_c36c9186-d377-4704-bd67-1a18d6e8541c.jpg?v=1639582576",
+        "ratings":4.7,
+        "view": 324
+       },
+
+       {
+        "id":7,
+        "name":"Kohl Of Honour Intense Kajals - 01 Black Out (Black)",
+        "price":249,
+        "description":"Ready to elevate your eye game to many notches above the ordinary? Step up to the world of extreme-wear, waterproof kajals with the SUGAR Kohl Of Honour Intense Kajal. smudgeproof and transfer-resistant, this breakthrough formula glides on smoothly for flawless, precise application and stays put for 12 straight hours. Ergonomically designed in an easy-to-use twist-up form, this wonder product delivers pigment-rich, high-impact colour that will fill your eyes with all the definition and drama you’ve ever known!",
+        "category":"Best-seller",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/01_5e8187e3-f7a2-40aa-a759-d4bf69769234.jpg?v=1639496327",
+        "ratings":4.8,
+        "view": 328
+       },
+
+       {
+        "id":8,
+        "name":"Air Kiss Powder Lipstick - Air Kiss Powder Lipstick- 01 Mocha Mousse",
+        "price":499,
+        "description":"Presenting our SUGAR Contour De Force Face Palette that houses a power-packed trio of a matte bronzer, a radiant highlighter and a dreamy blush. Step up your beauty game by experimenting with the highlighter to stay in the spotlight, the bronzer for an enhanced tan and the contour for a defined, sculpted look.",
+        "category":"Best-seller",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/Artboard1_90984581-f570-4ecb-be91-fd832dd206e5.jpg?v=1644813262",
+        "ratings":4.7,
+        "view": 56
+       },
+
+       {
+        "id":9,
+        "name":"Face Fwd >> Contour Stick - 01 Fawn First (Milk Chocolate Brown)",
+        "price":799,
+        "description":"Presenting, the Face FWD >> Contour Stick! Sculpt your face like never before with this brilliant and easy-to-use beauty. Available in 2 awesome shades,you can now complete any look without a worry!",
+        "category":"Best-seller",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-face-fwd-contour-stick-01-fawn-first-milk-chocolate-brown-13825383923795.jpg?v=1619116453",
+        "ratings":4.7,
+        "view": 7
+       },
+
+       {
+        "id":10,
+        "name":"All Set To Go Translucent Powder",
+        "price":599,
+        "description":"The fastest route to looking picture-perfect around the clock - say hello to the all-new SUGAR All Set To Go Translucent Powder! Crafted to lock in the base and mask the shine, this lightweight mattifying powder keeps you looking stunningly fresh throughout the day. The translucent powder settles on to the skin effortlessly to blur out imperfections while simultaneously enhancing your complexion. Just pat it on, dust it off and stay flawless for the next 8+ hours!",
+        "category":"Best-seller",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/3_7.jpg?v=1626795160",
+        "ratings":4.8,
+        "view": 212
+       },
+
+       {
+        "id":11,
+        "name":"Goddess Of Flawless SPF30+ BB Cream - 07 Vanilla Latte (Fair)",
+        "price":799,
+        "description":"For all the times you’ve struggled to perfect the “no-makeup” makeup look, there is now an answer! Reintroducing the original SUGAR Goddess Of Flawless SPF30+ BB Cream whose ultra-lightweight aerated mousse-textured formula sinks into the skin with the ease of a moisturizer while shielding it against the sun with its in-built SPF30+ protection. With a luxurious matte finish that guarantees an entire day with a sweat-free face, you now have front-row access to beautiful glowing skin! So go ahead - bin your primer, foundation, moisturizer and sunscreen – because, this little beauty does it all and delivers a flawless finish in one simple step.",
+        "category":"Best-seller",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-goddess-of-flawless-spf30-bb-cream-07-vanilla-latte-fair-12794189971539.jpg?v=1619114613",
+        "ratings":4.7,
+        "view": 125
+       },
+
+       {
+        "id":12,
+        "name":"Mettle Priming Balm",
+        "price":1099,
+        "description":"Achieve flawless skin – No filter necessary!Indulge in luxe beauty with the SUGAR Mettle Priming Balm – a one-of-a-kind velvety smooth face primer that has a creamy balm texture. A unique addition to our premium Mettle Makeup Range; this pore-blurring face priming balm intensely moisturizes, blurs out pores, fine lines and smoothes your skin texture beautifully. This oil-free face priming formula is a perfect makeup and skincare hybrid that makes your makeup last up to 16 hours smudge-proof!",
+        "category":"Best-seller",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/382512089-mettle-priming-balm-01.jpg?v=1648654861",
+        "ratings":4.7,
+        "view": 0
+       },
+
+       {
+        "id":13,
+        "name":"Modern Matte Lipstick Value Set",
+        "price":1149,
+        "description":"Let your lips make a bold statement with the SUGAR Modern Matte Value set. This beauty set includes our bestselling Matte As Hell Crayon Lipstick that glides on creamy, silky matte and provides maximum coverage with the right amount of colour. This set also has our classic favourite 'Smudge Me Not Liquid Lipstick' that is absolutely transferproof and stays put throughout the day. Together this matte-luscious duo will amp up your makeup game.",
+        "category":"Best-seller",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-matte-as-hell-crayon-lipstick-value-set-14600053391443.jpg?v=1619119204",
+        "ratings":5.2,
+        "view": 2
+       },
+
+       {
+        "id":14,
+        "name":"Coffee Culture Cleansing Balm Stick",
+        "price":699,
+        "description":"Presenting our SUGAR Contour De Force Face Palette that houses a power-packed trio of a matte bronzer, a radiant highlighter and a dreamy blush. Step up your beauty game by experimenting with the highlighter to stay in the spotlight, the bronzer for an enhanced tan and the contour for a defined, sculpted look.",
+        "category":"Best-seller",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/Coffee-culture-cleansing-balm-stick-01.jpg?v=1643375708",
+        "ratings":4.9,
+        "view": 9
+       }
     ]
-    
-
 }
