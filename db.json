@@ -151,6 +151,28 @@
         "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/Coffee-culture-cleansing-balm-stick-01.jpg?v=1643375708",
         "ratings":4.9,
         "view": 9
+       },
+       
+       {
+        "id":15,
+        "name":"Modern Matte Lipstick Value Set",
+        "price":1149,
+        "description":"Let your lips make a bold statement with the SUGAR Modern Matte Value set. This beauty set includes our bestselling Matte As Hell Crayon Lipstick that glides on creamy, silky matte and provides maximum coverage with the right amount of colour. This set also has our classic favourite 'Smudge Me Not Liquid Lipstick' that is absolutely transferproof and stays put throughout the day. Together this matte-luscious duo will amp up your makeup game.",
+        "category":"Best-seller",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-matte-as-hell-crayon-lipstick-value-set-14600053391443.jpg?v=1619119204",
+        "ratings":5.0,
+        "view": 278
+       },
+
+       {
+        "id":16,
+        "name":"Coffee Culture Cleansing Balm Stick",
+        "price":699,
+        "description":"Presenting our SUGAR Contour De Force Face Palette that houses a power-packed trio of a matte bronzer, a radiant highlighter and a dreamy blush. Step up your beauty game by experimenting with the highlighter to stay in the spotlight, the bronzer for an enhanced tan and the contour for a defined, sculpted look.",
+        "category":"Best-seller",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/Coffee-culture-cleansing-balm-stick-01.jpg?v=1643375708",
+        "ratings":4.0,
+        "view": 912
        }
     ]
 }
