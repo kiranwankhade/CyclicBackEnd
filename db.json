@@ -174,5 +174,8 @@
         "ratings":4.0,
         "view": 912
        }
-    ]
+    ],
+
+    "wishList": [],
+    "cart":[]
 }
