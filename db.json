@@ -178,6 +178,6 @@
 
     "wishList": [],
     "cart":[],
-    "firstName":"",
-    "totalPrice":""
+    "firstName":[],
+    "totalPrice":[]
 }
