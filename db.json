@@ -179,5 +179,6 @@
     "wishList": [],
     "cart":[],
     "firstName":[],
-    "totalPrice":[]
+    "totalPrice":[],
+    "watchList":[]
 }
