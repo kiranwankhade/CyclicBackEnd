@@ -180,5 +180,6 @@
     "cart":[],
     "firstName":[],
     "totalPrice":[],
-    "watchList":[]
+    "watchList":[],
+    "login":[]
 }
