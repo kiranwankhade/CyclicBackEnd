@@ -211,6 +211,7 @@
     "wishList": [],
     "cart":[],
     "totalPrice":[],
+    "firstName":[],
     "watchList":[],
     "login":[],
     "users":[]
