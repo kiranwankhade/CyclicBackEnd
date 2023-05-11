@@ -1,0 +1,207 @@
+[
+  {
+    "id": 1,
+    "name": "Ace Of Face Foundation Stick - 10 Latte (Light, Warm Undertone)",
+    "price": 999,
+    "description": "Make dreamy natural-looking skin a reality! If you are looking for a foundation that not just looks but also feels like second skin,look no further than the SUGAR Ace Of Face Foundation Stick. It will instantly become the hero of your makeup stash and let you slay #flawlessskingoals every time!",
+    "category": "Face",
+    "image": "https://www.nykaa.com/media/wysiwyg/SGR_AAFFS_1.jpg?tr=w-400,pr-true",
+    "ratings": 4.8,
+    "view": 579
+  },
+  {
+    "id": 2,
+    "name": "Contour De Force Face Palette - 01 Subtle Summit",
+    "price": 999,
+    "description": "Presenting our SUGAR Contour De Force Face Palette that houses a power-packed trio of a matte bronzer, a radiant highlighter and a dreamy blush. Step up your beauty game by experimenting with the highlighter to stay in the spotlight, the bronzer for an enhanced tan and the contour for a defined, sculpted look.",
+    "category": "Face",
+    "image": "https://cdn.shopify.com/s/files/1/0906/2558/products/1_c36c9186-d377-4704-bd67-1a18d6e8541c.jpg?v=1639582576",
+    "ratings": 4.7,
+    "view": 324
+  },
+  {
+    "id": 3,
+    "name": "Moisturizer-Cream",
+    "price": 399,
+    "description": "A hydrating and lightweight moisturizer that gives your skin the perfect glow. Enriched with Vitamin E and Shea Butter, it helps protect your skin against pollution and leaves it soft and smooth. Transfer-proof and non sticky. How to apply: Apply directly to skin for a radiant glow, or mixed with moisturizer or foundation for a subtle glow. Can also be used as a highlighter. Benefits: Antioxidants, Vitamin E and Shea Butter guard the skin against the damaging effects of pollution. Iridescent particles clarify and brighten the skin. It boosts the look of dull skin. Additional details: SUGAR Bling leader Illuminating Moisturizer is available in 3 luminous shades. 01 Gold Diggin', 02 Pink Trippin', 03 Peach Poppin' .It is dermatologically tested and approved. Paraben-free and cruelty-free.",
+    "category": "Face",
+    "image": "https://rukminim1.flixcart.com/image/612/612/l1b1oy80/moisturizer-cream/w/r/e/90-citrus-got-real-spf30-sunscreen-daily-moisturize-cream-sugar-original-imagcwaunzpazx44.jpeg?q=70",
+    "ratings": 4.9,
+    "view": 615
+  },
+  {
+    "id": 4,
+    "name": "SUGAR Cosmetics Aquaholic Hydrating Stick  (32 g)",
+    "price": 319,
+    "description": "It provides instant hydration, nourishes skin and provides skin protection. Soothes puffy eyes and keeps you looking refreshed all day long. You just have to dive in! How to Apply: Gently use the SUGAR Aquaholic Hydrating Stick on areas to relieve them from dehydration symptoms and massage until absorbed. Apply under eyes to remove puffiness.",
+    "category": "Face",
+    "image": "https://rukminim1.flixcart.com/image/416/416/ktbu6q80/moisturizer-cream/n/e/s/aquaholic-hydrating-stick-gel-sugar-cosmetics-original-imag6p6vh4dhy6z5.jpeg?q=70",
+    "ratings": 3.5,
+    "view": 245
+  },
+  {
+    "id": 5,
+    "name": "SUGAR POP SPF 30 + BB Cream - 01 ",
+    "price": 985,
+    "description": "SUGAR POP SPF 30 + BB CREAM boasts of a LIGHTWEIGHT TEXTURE AND BLENDABLE FORMULA delivering completely natural and flawless finish for your skin THE SMOOTH AND LONG LASTING FINISH guarantees an entire day with even-toned magnified skin",
+    "category": "Face",
+    "image": "https://m.media-amazon.com/images/I/51iFuekUHvL._SL1500_.jpg",
+    "ratings": 3.5,
+    "view": 211
+  },
+
+  {
+    "id": 6,
+    "name":"Smudge Me Not Mini Liquid Lipstick Set - Power up your Pout",
+    "price":799,
+    "description":"Blushme mini liquid lipsticks are perfect to indulge in. These mini liquid lipsticks infused with the goodness of vitamin E are intensely bold in pigment, ultra-matte and glide on effortlessly. Enjoy the mask-proof, transfer-proof and smudge-resistant formula.",
+    "category":"Lips",
+    "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/WBG2_aed576d3-066c-42e7-b45b-ecdefb75ad5f.jpg?v=1657814599",
+    "ratings":5.0,
+    "view": 175
+  },
+  {
+    "id": 7,
+    "name":"Air Kiss Powder Lipstick - Air Kiss Powder Lipstick- 01 Mocha Mousse",
+        "price":499,
+        "description":"Presenting our SUGAR Contour De Force Face Palette that houses a power-packed trio of a matte bronzer, a radiant highlighter and a dreamy blush. Step up your beauty game by experimenting with the highlighter to stay in the spotlight, the bronzer for an enhanced tan and the contour for a defined, sculpted look.",
+        "category":"Lips",
+        "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/Artboard1_90984581-f570-4ecb-be91-fd832dd206e5.jpg?v=1644813262",
+        "ratings":4.7,
+    "view": 145
+  },
+  {
+    "id": 8,
+    "name":"Modern Matte Lipstick Value Set",
+    "price":1149,
+    "description":"Let your lips make a bold statement with the SUGAR Modern Matte Value set. This beauty set includes our bestselling Matte As Hell Crayon Lipstick that glides on creamy, silky matte and provides maximum coverage with the right amount of colour. This set also has our classic favourite 'Smudge Me Not Liquid Lipstick' that is absolutely transferproof and stays put throughout the day. Together this matte-luscious duo will amp up your makeup game.",
+    "category":"Lips",
+    "image":"https://cdn.shopify.com/s/files/1/0906/2558/products/sugar-cosmetics-smudge-me-not-liquid-lipstick-matte-as-hell-crayon-lipstick-value-set-14600053391443.jpg?v=1619119204",
+    "ratings":4.2,
+    "view": 788
+  },
+  {
+    "id": 9,
+    "name": "SUGAR Cosmetics - Matte Attack",
+    "price": 499,
+    "description": "Lasts up to 8 Hours,Start off with Creamy formula,sets to complete Matte High ,Pigmentation,Enriched with Jojoba Oil and Vitamine E ,Non Drying and Zero Feathering Formula",
+    "category": "Lips",
+    "image": "https://infifashion.com/wp-content/uploads/2022/03/thumbnail-Cosmetics-Design-Asia.jpg.webp",
+    "ratings": 3.5,
+    "view": 529
+  },
+  {
+    "id": 10,
+    "name": "SUGAR POP Nourishing Lip Balm 01 Mint ",
+    "price": 134,
+    "description": "HYDRATES your lips like never before, nourishing your pout to ultimate suppleness THE UV PROTECTION smoothens and moisturises your lips covering fine lines for a flawless finish",
+    "category": "Lips",
+    "image": "https://m.media-amazon.com/images/I/51xb3DCHTuL._SL1500_.jpg",
+    "ratings": 3.8,
+    "view": 635
+  },
+
+
+  {
+    "id": 11,
+    "name":"Pacifica Stellar Gaze Length \u0026 Strength Mineral Mascara",
+    "price":588,
+    "description":"You will fall in love with Pacifica's long lasting, nourishing, natural mineral\n mascara.  This amazing formula is infused with coconut oil and vitamin B\n to hydrate each lash as it lengthens, strengthens and adds volume. \nApply for a natural look by day, or layer for more volume with the super\n plush 100% vegan brush that provides effortless coverage.100% vegan. Cruelty-free. Formulated without FD \u0026 C color, parabens, talc and mineral oil.\nRead our blog post for tips on how to Green \u0026 Clean your makeup bag.  Ingredients: Aqua, glycerin (vegetable), glyceryl stearate se, jojoba \nesters, tapioca starch, stearic acid ( vegetable), copernicia cerfera \n(carnauba) wax, euphorbia cerifera (candelilla) wax, arabic/acacia gum, \nacrylates, crosspolymer, potassium cetyl phosphate, microcrystalline \ncellulse (plant), cocos nucifera (coconut) oil, panthenol (vitamin b), \ncellulose gum, gluconolactone, macrocystis pyifera (brown kelp) extract,\n hydrolyzed oryza sativa (rice) protein, sodium benzoate, iron oxides c1\n 77499.",
+    "category": "Eyes",
+    "image": "https://d3t32hsnjxo7q6.cloudfront.net/i/b4a5f31a499b42938980fb369d0213ab_ra,w158,h184_pa,w158,h184.jpeg",
+    "ratings": 4.0,
+    "view": 234
+  },
+  {
+    "id": 12,
+    "name": "Kohl Of Honour Intense Kajals - 01 Black Out (Black)",
+    "price": 249,
+    "description": "Ready to elevate your eye game to many notches above the ordinary? Step up to the world of extreme-wear, waterproof kajals with the SUGAR Kohl Of Honour Intense Kajal. smudgeproof and transfer-resistant, this breakthrough formula glides on smoothly for flawless, precise application and stays put for 12 straight hours. Ergonomically designed in an easy-to-use twist-up form, this wonder product delivers pigment-rich, high-impact colour that will fill your eyes with all the definition and drama you’ve ever known!",
+    "category": "Eyes",
+    "image": "https://m.media-amazon.com/images/I/61qDCEQPbFL._SL1500_.jpg",
+    "ratings": 4.4,
+    "view": 256
+  },
+  {
+    "id": 13,
+    "name": "Mattlook Spice N Sugar Ultra Professional Eyeshadow Palette",
+    "price": 485,
+    "description": "A perfect matte, shimmer, and metallic nude eyeshadow palette for weddings and wedding parties including natural, glowing and romantic dreamy look that completes your wedding-day vision.Soft or dramatic smokey eye shadow does not have to be shades of gray. The timeless look is for everyone and feels cool, edgy, glam and classic at the same time. Multicolors Eyeshadow Palette,Cool Toned Matte & Shimmer Blooming Makeup Smoky Eyeshadow",
+    "category": "Eyes",
+    "image": "https://m.media-amazon.com/images/I/61TQTZQJrnL._SL1200_.jpg",
+    "ratings": 4.6,
+    "view": 865
+  },
+  {
+    "id": 14,
+    "name": "Smudgeproof Eyeliner - 01 Black Swan (Black)",
+    "price": 521,
+    "description": "Seize the day with as much grace as there is in Black Swan. Comes in an ergonomic casing that makes handling and application ridiculously easy and makes sure that you get the look right.Eye Told You So! Smudgeproof Eyeliner is free from parabens & formaldehyde.",
+    "category": "Eyes",
+    "image": "https://m.media-amazon.com/images/I/41gow2ZeJUS._SL1100_.jpg",
+    "ratings": 4.5,
+    "view": 292
+  },
+  {
+    "id": 15,
+    "name": "Born To Wing Gel Eyeliner",
+    "price": 1300,
+    "description": "Get Diamonds for its punchy shades of bright blue, metallic smokey teal and metallic purple that's balanced by grey to make your eyes pop with an inimitable midnight blue look",
+    "category": "Eyes",
+    "image": "https://cdn.shopify.com/s/files/1/1301/1643/products/sugar-cosmetics-eyeliner-born-to-wing-gel-eyeliner-01-blackmagic-woman-17280665551007.progressive.jpg?v=1594606908",
+    "ratings": 4.0,
+    "view": 591
+  },
+
+
+  {
+    "id": 16,
+    "name": "Aquaholic Overnight Water Mask",
+    "price": 2460,
+    "description": "It soothes, replenishes skin & relieves it from dehydration. It is infused with natural herb extracts to repair skin barrier functions and leave skin feeling softer",
+    "category": "Skin",
+    "image": "https://cdn.shopify.com/s/files/1/1301/1643/products/sugar-cosmetics-water-mask-aquaholic-overnight-water-mask-17243944353951.progressive.jpg?v=1598349101",
+    "ratings": 4.6,
+    "view": 421
+  },
+  {
+    "id": 17,
+    "name": "Aquaholic Hydrating Stick",
+    "price": 486,
+    "description": "It provides instant hydration, nourishes skin, and provides skin protection. Soothes puffy eyes and keeps you looking refreshed all day long. You just have to dive in!",
+    "category": "Skin",
+    "image": "https://cdn.shopify.com/s/files/1/1301/1643/products/sugar-cosmetics-hydradting-stick-aquaholic-hydrating-stick-17243882356895.progressive.jpg?v=1598349093",
+    "ratings": 3.6,
+    "view": 320
+  },
+  {
+    "id": 18,
+    "name": "Swipe Right Cleansing Water",
+    "price": 398,
+    "description": "Craving for the ultimate cleanse?  Make some space in your ever-growing stash cos’ the best product to swear by, is here!  SUGAR Swipe Right Cleansing Water is a 4-in-1 marvel that works.",
+    "category": "Skin",
+    "image": "https://cdn.shopify.com/s/files/1/1301/1643/products/sugar-cosmetics-cleansing-water-swipe-right-cleansing-water-17253743952031.progressive.jpg?v=1594446464",
+    "ratings": 4.1,
+    "view": 175
+  },
+  {
+    "id": 19,
+    "name": "Aquaholic Priming Moisturizer",
+    "price": 256,
+    "description": "It soothes skin from irritation & dryness. Glides on easily, locks down moisture to keep the skin refreshed. It is ultra-lightweight, non-greasy and refreshing. A perfect mix of makeup & skincare.",
+    "category": "Skin",
+    "image": "https://cdn.shopify.com/s/files/1/1301/1643/products/sugar-cosmetics-moisturizer-aquaholic-priming-moisturizer-17244284715167.progressive.jpg?v=1594538843",
+    "ratings": 3.1,
+    "view": 140
+  },
+  {
+    "id": 20,
+    "name": "Cosmetics Drop The Base Serum",
+    "price": 864,
+    "description": "SUGAR Drop The Base Serum Foundation contains an ultra-thin skin-perfecting formula that provides seamless adjustable coverage and a natural finish.",
+    "category": "Skin",
+    "image": "https://media.fashionnetwork.com/cdn-cgi/image/fit=contain,width=1000,height=1000/m/ca82/f999/0f00/5846/ecc8/8553/11dd/3e0a/905b/5629/5629.jpeg",
+    "ratings": 4.3,
+    "view": 555
+  }
+]
