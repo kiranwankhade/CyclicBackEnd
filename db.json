@@ -213,5 +213,27 @@
     "totalPrice":[],
     "watchList":[],
     "login":[],
-    "users":[]
+    "users":[],
+    "newDocumets":[
+      {
+        "editorId": "Sun May 21 2023 17:24:56 GMT+0530 (India Standard Time)",
+        "editorName": "kiran",
+        "editorText": "",
+        "uid": "mVuFOx2jo9gbQ3ex45kSY7g7lAr1",
+        "name": "Kiran Wankhade",
+        "authProvider": "google",
+        "email": "kiranwankhade7738@gmail.com",
+        "id": 1
+      },
+      {
+        "editorId": "Sun May 21 2023 17:24:56 GMT+0530 (India Standard Time)",
+        "editorName": "xyz",
+        "editorText": "",
+        "uid": "mVuFOx2jo9gbQ3ex45kSY7g7lAr1",
+        "name": "Kiran Wankhade",
+        "authProvider": "google",
+        "email": "kiranwankhade7738@gmail.com",
+        "id": 2
+      }
+    ]
 }
